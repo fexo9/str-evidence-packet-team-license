@@ -3,8 +3,8 @@
 **$79 one-time. Commercial license. 10 named seats, one company.**
 
 One purchase covers 10 managers in one property-management company:
-the full 17-file STR damage-claim evidence packet, plus a team license,
-a multi-property claim tracker, and a rollout guide.
+  the full 17-file STR damage-claim evidence packet, plus a team license,
+  a multi-property claim tracker, and a rollout guide.
 
 ## What's inside (20 files)
 
@@ -36,6 +36,7 @@ loss. Terms change — re-check the current terms before filing.
 ## Buy
 
 - **Getly:** https://www.getly.store/product/str-evidence-packet-team-license-10-seats
+- **SellApp:** https://digitaltoolkitstore.sell.app/product/str-evidence-packet-team-license-10-seats
 
 $79 one-time, Commercial license. Instant download.
 
